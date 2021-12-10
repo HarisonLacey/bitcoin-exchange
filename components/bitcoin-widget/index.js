@@ -2,7 +2,7 @@ import { Converter } from 'components/converter'
 
 import { Widget } from './style'
 
-// component for center widget that displays bitcoin price
+// component for center widget that displays and calculates bitcoin price
 
 export const BitcoinWidget = ({ currencyData }) => {
     return (
